@@ -1,2 +1,2 @@
 La api permite que el usuario tenga una respuesta para permitirse dar seguridad de que si son recibidos los mensajes, mientas tanto con el post se van registrando en la base de datos para aumentar su conocimiento, para todo mi corregimiento en este caso funciona como un portal para recibir sugerencias, propuestas, mejoras difundir noticias de intéres que permite que toda la comunidad se mantenga informada, y se sienta escuchada por los demás
-ás y en las reuniones realizar los ajustes pertinentes con todos los escritos de la comunidad. 
+ás y en las reuniones realizar los ajustes pertinentes con todos los escritos de la comunidad y sus habitantes. 
